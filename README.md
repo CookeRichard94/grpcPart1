@@ -24,5 +24,5 @@ Swaggerhub API [here](https://app.swaggerhub.com/apis/CookeRichard94/UserAPI/1.0
 ## References (Part 2)
 
 * https://howtodoinjava.com/dropwizard/tutorial-and-hello-world-example/
-*
+* https://www.baeldung.com/java-byte-arrays-hex-strings
 *
